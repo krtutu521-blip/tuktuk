@@ -1,0 +1,6 @@
+{
+  "name": "Parent Control",
+  "description": "Educational Family Safety App with real-time location sharing and cyber security styled parent-child linking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
